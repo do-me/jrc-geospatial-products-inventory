@@ -2,6 +2,15 @@
 
 Inventory of geospatial products and datasets produced by the European Commission's Joint Research Centre (JRC).
 
+## Downloads (March 2026 Run)
+
+- [CSV](https://raw.githubusercontent.com/do-me/jrc-geospatial-products-inventory/main/18-03-2026/jrc_products_inventory.csv)
+- [JSON](https://raw.githubusercontent.com/do-me/jrc-geospatial-products-inventory/main/18-03-2026/jrc_products_inventory.json)
+- [Markdown](https://raw.githubusercontent.com/do-me/jrc-geospatial-products-inventory/main/18-03-2026/jrc_products_inventory.md)
+- [HTML](https://raw.githubusercontent.com/do-me/jrc-geospatial-products-inventory/main/18-03-2026/jrc_products_inventory.html)
+- [Excel (XLSX)](https://raw.githubusercontent.com/do-me/jrc-geospatial-products-inventory/main/18-03-2026/jrc_products_inventory.xlsx)
+- [Parquet](https://raw.githubusercontent.com/do-me/jrc-geospatial-products-inventory/main/18-03-2026/jrc_products_inventory.parquet)
+
 ## March 2026 Run
 
 | # | Dataset Acronym | Full Name | Short Description | Thematic Domain | Spatial Resolution | Temporal Coverage | Update Frequency | File Formats | Primary Data Sources | Produced By (JRC Unit / Directorate) | Co-Producers / Partners | Access URL | License / Terms of Use | Notes / Status |
